@@ -1,4 +1,4 @@
-# ![We4Tech Banner]<img src="we4tech.jpg" alt="We4Tech Banner">
+# ![We4Tech Banner](we4tech.jpg){width=500 height=500}
 
 *(Replace this URL with your banner image link)*
 
