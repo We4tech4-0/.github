@@ -1,6 +1,5 @@
-# ![We4Tech Banner](we4tech.jpg){width=500 height=500}
+# ![We4Tech Banner](profile/we4tech.jpg/1000x300?text=We4Tech+Agency)  
 
-*(Replace this URL with your banner image link)*
 
 # We4Tech Agency 🌐  
 Welcome to **We4Tech Agency**, where creativity meets technology!  
