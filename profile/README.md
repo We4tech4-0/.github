@@ -1,4 +1,5 @@
-# ![We4Tech Banner](we4tech.jpg/1000x300?text=We4Tech+Agency)  
+# ![We4Tech Banner]<img src="we4tech.jpg" alt="We4Tech Banner" width="1000" height="300">
+
 *(Replace this URL with your banner image link)*
 
 # We4Tech Agency 🌐  
