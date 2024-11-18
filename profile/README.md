@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/we4tech.jpg1000x300?text=We4Tech+Agency" alt="We4Tech Agency Banner" width="100%">
+  <img src="profile/we4tech.jpg" alt="We4Tech Agency Banner" width="100%" height="50%">
 </div>
 
 # We4Tech Agency 🌐  
