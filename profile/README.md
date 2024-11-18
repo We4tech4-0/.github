@@ -89,9 +89,9 @@ We’re always excited to work with like-minded individuals and organizations. F
 ---
 
 ## 📧 Contact Us  
-- Email: **we4tech@example.com** *(Replace with actual email)*  
-- Website: **[We4Tech Official Site](#)** *(Replace with actual website link)*  
-- LinkedIn: **[We4Tech LinkedIn](#)** *(Replace with LinkedIn page)*  
+- Email: **we4tech@gmail.com**   
+- Website: **[We4Tech Official Site](https://we4tech.in/)**)*  
+- LinkedIn: **[We4Tech LinkedIn](#)**  
 
 ---
 
