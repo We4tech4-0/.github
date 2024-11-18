@@ -1,5 +1,6 @@
-# ![We4Tech Banner](profile/we4tech.jpg/1000x300?text=We4Tech+Agency)  
-
+<div align="center">
+  <img src="profile/we4tech.jpg1000x300?text=We4Tech+Agency" alt="We4Tech Agency Banner" width="100%">
+</div>
 
 # We4Tech Agency 🌐  
 Welcome to **We4Tech Agency**, where creativity meets technology!  
