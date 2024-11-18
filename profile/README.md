@@ -20,12 +20,12 @@ Our mantra:
 
 | **Name**       | **Role**               | **GitHub Profile**                        |  
 |-----------------|------------------------|-------------------------------------------|  
-| **Hariharanath** | Founder & Lead Developer | [@Hariharanath](#) *(Add profile link)*   |  
-| **Guna Teja**   | UI/UX Designer          | [@GunaTeja](#) *(Add profile link)*       |  
-| **Anand**       | Backend Specialist      | [@Anand](#) *(Add profile link)*          |  
-| **Vedant**      | Frontend Engineer       | [@Vedant](#) *(Add profile link)*         |  
-| **Aaran**       | Developer               | [@Aaran](#) *(Add profile link)*          |  
-| **Devdat**      | Graphic Designer        | [@Devdat](#) *(Add profile link)*         |  
+| **Hariharanath** | Founder & Lead Developer | [@Hariharanath](#)   |  
+| **Guna Teja**   | UI/UX Designer          | [@GunaTeja](#)      |  
+| **Anand**       | Backend Specialist      | [@Anand](#)         |  
+| **Vedant**      | Frontend Engineer       | [@Vedant](#)        |  
+| **Aaran**       | Developer               | [@Aaran](#)       |  
+| **Devdat**      | Graphic Designer        | [@Devdat](#)      |  
 
 Together, we aim to create technology that makes a difference.  
 
