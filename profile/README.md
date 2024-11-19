@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/banner.png" alt="We4Tech Agency Banner" >
+  <img src="banner.png" alt="We4Tech Agency Banner" >
 </div>
 
 # We4Tech Agency 🌐  
